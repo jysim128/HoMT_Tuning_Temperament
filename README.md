@@ -2,6 +2,7 @@ This is a simple notebook for better understanding historical development of tun
 
 
 ================
+
 Step 1: Understanding Ratios (a Mathematics drill)
 Understanding concepts and ratios in each tuning system and temperament by answering questions.
 
